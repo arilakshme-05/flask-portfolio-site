@@ -13,7 +13,7 @@ A personal portfolio web application built with Python Flask, featuring static a
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 * **Backend:** Python, Flask
 * **Frontend:** HTML5, CSS3, Jinja2 Templates
